@@ -15,6 +15,7 @@
 
 **PERSONAL PROJECTS**
 - coming soon
+
      
 <i>*Repositories are pinned down below</i>
   
@@ -25,4 +26,4 @@
 - 📚 Former insurance & sales employee
 
 
-<div>[![Channing's GitHub stats](https://github-readme-stats.vercel.app/api?username=channingdev)](https://github.com/channingdev/github-readme-stats)</div>
+[![Channing's GitHub stats](https://github-readme-stats.vercel.app/api?username=channingdev)](https://github.com/channingdev/github-readme-stats)
