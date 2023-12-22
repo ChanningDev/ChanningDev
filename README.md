@@ -9,12 +9,16 @@
 **TECH BIO**
 - 🧮 Technical Founder at [Sparrow Ventures](https://www.sparrow-ventures.com/)
 - 🎓 Graduate from full-time Software Development Course ar [SIG](https://ssse.ti.ch/sig)
-- 💭 I use: ``.cs``, ``.tsx``, ``.jsx`` ,``.ts``, ``.js``, ``.spec.js``, ``.sql``, ``.scss``, ``.css``, ``.html``
-- 📖 I also use: .NET, React.js, Node.js, Express.js, postgreSQL, Rest API, Git
+- 💭 I use: ``.cs``, ``.php``, ``.tsx``, ``.jsx`` ,``.ts``, ``.js``, ``.sql``, ``.scss``, ``.css``, ``.html``
+- 📖 I also use: .NET, MVC, React.js, Node.js, Express.js, postgreSQL, Rest API, Git
 - 👩‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/channing-morillo/)
 
 **PERSONAL PROJECTS**
-- coming soon
+- 💵 **[Sales Budget]()** <br />
+     Corporate Web App written in .NET, that allows CRUD operations on sales records.
+     
+- ✈️ **[Travel Agency]()** <br/>
+     MVC (php) website, that organizes and displays travel destinations.
 
      
 <i>*Repositories are pinned down below</i>
