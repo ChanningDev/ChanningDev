@@ -11,7 +11,7 @@
 - 👨🏽‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/channing-morillo/)
 
 **PERSONAL PROJECTS**
-- 💵 **[Sales Budget]()** <br />
+- 💵 **[Sales Budget](https://github.com/ChanningDev/sales-budget)** <br />
      Corporate Web App written in .NET, that allows CRUD operations on sales records.
      
 - ✈️ **[Travel Agency](https://github.com/ChanningDev/travel-agency)** <br/>
