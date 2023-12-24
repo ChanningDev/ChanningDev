@@ -12,10 +12,10 @@
 
 **PERSONAL PROJECTS**
 - 💵 **[Sales Budget](https://github.com/ChanningDev/sales-budget)** <br />
-     Corporate Web App written in .NET, that allows CRUD operations on sales records.
+     Corporate desktop MPA application written in C# (.NET), that allows CRUD operations on sales records.
      
 - ✈️ **[Travel Agency](https://github.com/ChanningDev/travel-agency)** <br/>
-     MVC (php) website, that organizes and displays travel destinations.
+     PHP (MVC) website, that organizes and displays travel destinations.
 
      
 <i>*Repositories are pinned down below</i>
