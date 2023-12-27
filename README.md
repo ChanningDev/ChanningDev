@@ -25,7 +25,7 @@
   
 
 **PERSONAL BIO**
-- 🌍 Personal/portfolio website: [channing.ch](https://channing.ch)
+- 🌍 Personal/portfolio website: **[channing.ch](https://channing.ch)**
 - 🇨🇭 From Ticino, Switzerland
 - 🗣 Fluent in: Italian (native), English (Fluent), Spanish (Fluent)
 - 📚 Former insurance & sales clerk
