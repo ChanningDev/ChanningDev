@@ -11,6 +11,9 @@
 - 👨🏽‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/channing-morillo/)
 
 **PERSONAL PROJECTS**
+- 💊 **[Calcolo Insulina](https://github.com/ChanningDev/calcolo-insulina)** <br />
+     Showcase site for a insulin calculator application.
+  
 - 💵 **[Sales Budget](https://github.com/ChanningDev/sales-budget)** <br />
      Corporate desktop MPA application written in C# (.NET), that allows CRUD operations on sales records.
      
