@@ -1,7 +1,7 @@
 ## Hello, I'm Channing👋
 
 
-### Software | ITOps | Cloud Systems Engineer Based in Zürich, Switzerland 🇨🇭
+### IT Systems Engineer [Cloud-ITOps-Software] Based in Zürich, Switzerland 🇨🇭
 
 **TECH BIO**
 - 👷🏽‍♂️ Digital Workplace Engineer at [Tchibo (Schweiz) AG](https://www.tchibo.ch)
