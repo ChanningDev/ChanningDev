@@ -4,16 +4,16 @@
 ### IT Professional Based in Zürich, Switzerland 🇨🇭
 
 **TECH BIO**
-- 👷🏽‍♂️ Digital Workplace Engineer at [Tchibo (Schweiz) AG](https://www.tchibo.ch)
+- ☕ IT Specialist Digital Workplace at [Tchibo (Schweiz) AG](https://www.tchibo.ch)
 - 🎓 Graduate from full-time Software Development Associate Degree at [SIG](https://ssse.ti.ch/sig)
 - 💭 I use: ``.cs``, ``.jav``,``.php``, ``.js``, ``.sql``, ``.css``, ``.html``
 - 📖 I also use: .NET, PHP(MVC), postgreSQL, MySQL, SQLServer, MariaDB, Apache, Bootstrap, Rest API, Git
-- 📜 Certifications that I'm Working on: AWS Certified Developer - Associate
+- 📜 Certifications that I'm Working on: Google Associate Cloud Engineer
 - 👨🏽‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/channing-morillo/)
 
 **PERSONAL BIO**
-- 🌍 Personal/portfolio website: **[channing.ch](https://channing.ch)**
-- 🇨🇭 From Ticino, Switzerland
+- 🌍 Personal website: **[channing.ch](https://channing.ch)**
+- 🇨🇭🇮🇹 From Ticino, Switzerland
 - 🗣 Fluent in: Italian (native), English (Fluent), Spanish (Fluent)
 - 📚 Former insurance & sales clerk
 
